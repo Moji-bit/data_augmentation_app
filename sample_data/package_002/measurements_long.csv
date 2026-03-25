@@ -1,0 +1,5 @@
+timestamp,scenario_id,tag,value,unit
+2026-01-02T00:00:00Z,scenario_tunnel_b,S_temp,19.7,C
+2026-01-02T00:00:00Z,scenario_tunnel_b,S_co,0.03,ppm
+2026-01-02T00:00:01Z,scenario_tunnel_b,S_temp,19.9,C
+2026-01-02T00:00:01Z,scenario_tunnel_b,S_co,0.05,ppm

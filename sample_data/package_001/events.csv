@@ -1,0 +1,2 @@
+timestamp,scenario_id,event_type,event_phase,severity,risk
+2026-01-01T00:00:01Z,scenario_tunnel_a,smoke_alert,rise,0.4,medium

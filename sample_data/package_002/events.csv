@@ -1,0 +1,2 @@
+timestamp,scenario_id,event_type,event_phase,severity,risk
+2026-01-02T00:00:01Z,scenario_tunnel_b,traffic_jam,peak,0.6,high
