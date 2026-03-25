@@ -1,0 +1,6 @@
+timestamp,scenario_id,tag,value,unit
+2026-01-01T00:00:00Z,scenario_tunnel_a,S_temp,20.1,C
+2026-01-01T00:00:00Z,scenario_tunnel_a,S_humidity,45.0,%
+2026-01-01T00:00:01Z,scenario_tunnel_a,S_temp,20.3,C
+2026-01-01T00:00:01Z,scenario_tunnel_a,S_humidity,44.8,%
+2026-01-01T00:00:02Z,scenario_tunnel_a,S_temp,20.2,C

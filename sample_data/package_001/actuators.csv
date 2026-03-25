@@ -1,0 +1,4 @@
+timestamp,scenario_id,actuator_tag,value,unit
+2026-01-01T00:00:00Z,scenario_tunnel_a,A_fan_speed,0.3,ratio
+2026-01-01T00:00:01Z,scenario_tunnel_a,A_fan_speed,0.6,ratio
+2026-01-01T00:00:02Z,scenario_tunnel_a,A_fan_speed,0.8,ratio
